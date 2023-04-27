@@ -13,7 +13,7 @@ This project demonstrates how to create two types of charts (line chart and bar 
 
 - Clone the repository to your local machine:
 ```bash
-git clone https://github.com/example-user/Manufac-Assignment.git
+git clone https://github.com/nareshkumaralaria/Manufac-Assignment.git
 
 ```
 
