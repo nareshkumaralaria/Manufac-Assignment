@@ -59,5 +59,6 @@ https://manufac-naresh.netlify.app/
 
 # Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Desktop-screen](https://user-images.githubusercontent.com/57484597/234909289-026ffcd9-e44c-4312-bc39-f9c4449e345f.PNG)
+![mobile-screen](https://user-images.githubusercontent.com/57484597/234909334-1b0e26d8-c162-4249-91fd-ce728f1aa0e5.PNG)
 
