@@ -1,46 +1,63 @@
-# Getting Started with Create React App
+# Data Visualization with React and ECharts
+This project demonstrates how to create two types of charts (line chart and bar chart) using React and ECharts library.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# How to run this project locally
 
-In the project directory, you can run:
+## Requirements
+- Node.js v14 or higher
+- Yarn package manager
+- Modern web browser with JavaScript support
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Clone the repository to your local machine:
+```bash
+git clone https://github.com/example-user/Manufac-Assignment.git
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
 
-### `npm test`
+- Install the dependencies:
+```bash
+cd Manufac-Assignment
+yarn install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+## Usage
+- Start the development server:
+```bash
+yarn start
 
-### `npm run build`
+```
+- Open your web browser and navigate to http://localhost:3000 to see the application.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Components
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## LineChart
+The LineChart component displays a line chart that shows the relationship between the Flavanoids and Ash variables in a wine dataset.
 
-### `npm run eject`
+## BarChart
+The BarChart component displays a bar chart that shows the minimum Magnesium value for each Alcohol group in a wine dataset.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Data
+The Wine-Data.json file contains a dataset of 178 wines, each with 13 attributes.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Dependencies
+- React: A JavaScript library for building user interfaces
+- ECharts: A powerful, interactive charting and visualization library for browser and mobile applications
+- ECharts for React: A React wrapper for ECharts
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Authors
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [@nareshkumaralaria](https://github.com/nareshkumaralaria) (Naresh Kumar)
 
-## Learn More
+# Live Link
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+For live preview you can visit this link
+https://manufac-naresh.netlify.app/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
